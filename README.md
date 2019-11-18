@@ -259,6 +259,7 @@ $ out/Debug/ch
 *    Saelo: Fuzzili - (Guided-)fuzzing for JavaScript engines
      * [Video](https://www.youtube.com/watch?v=OHjq9Y66yfc)
      * [Slides](https://saelo.github.io/presentations/offensivecon_19_fuzzilli.pdf)
+     * [Thesis](https://saelo.github.io/papers/thesis.pdf)
 
 
 
@@ -266,9 +267,12 @@ $ out/Debug/ch
 
 ### Articles
 * [Exploiting TurboFan Through Bounds Check Elimination](https://gts3.org/2019/turbofan-BCE-exploit.html)
+
 * saelo: Exploiting Logic Bugs in JavaScript JIT Engines
      * [Phrack Article](http://phrack.org/papers/jit_exploitation.html)
      * [41con 19' slides](https://saelo.github.io/presentations/41con_19_jit_exploitation_tricks.pdf)
+     
+* CVE-2019-5790 * [Analysis](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
 
 ### CTF-Challenges
 * 34c3: v9
@@ -381,8 +385,6 @@ $ out/Debug/ch
      * [Video](https://www.youtube.com/watch?v=r4J7Zu1RV40)
      * [Slides](https://github.com/bkth/Attacking-Edge-Through-the-JavaScript-Compiler)
      
-     CVE-2019-0609
-     * [WriteUp](https://gts3.org/2019/cve-2019-0609.html)
 
 ### CTF-Challenges
 * Plaid 2017: chakrazy
@@ -395,8 +397,14 @@ $ out/Debug/ch
      * [WriteUp](https://theromanxpl0it.github.io/articles/2019/09/09/Trend-Micro-CTF-ChakraCore-JIT-exploitation.html)
      * [WriteUp](https://balsn.tw/ctf_writeup/20190906-trendmicroctfqual/#400)
      * [Exploit](https://gist.github.com/itszn/3277e8aa56c91f8296d88d25d96df717)
+
 ### RealWorld
 * bkth, S0rryMyBad: [Non JIT Bug, JIT Exploit](https://phoenhex.re/2019-05-15/non-jit-bug-jit-exploit)
+ 
+ CVE-2019-0609 * [Analysis](https://gts3.org/2019/cve-2019-0609.html)
+     
+ CVE-2016-7288 * [Analysis](https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html)
+ 
 
 # Tools
 
