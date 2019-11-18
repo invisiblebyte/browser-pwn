@@ -272,7 +272,6 @@ $ out/Debug/ch
      * [Phrack Article](http://phrack.org/papers/jit_exploitation.html)
      * [41con 19' slides](https://saelo.github.io/presentations/41con_19_jit_exploitation_tricks.pdf)
      
-* CVE-2019-5790 [Analysis](https://labs.bluefrostsecurity.de/blog/2019/04/29/dont-follow-the-masses-bug-hunting-in-javascript-engines/)
 
 ### CTF-Challenges
 * 34c3: v9
