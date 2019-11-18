@@ -400,9 +400,9 @@ $ out/Debug/ch
 ### RealWorld
 * bkth, S0rryMyBad: [Non JIT Bug, JIT Exploit](https://phoenhex.re/2019-05-15/non-jit-bug-jit-exploit)
  
- CVE-2019-0609 * [Analysis](https://gts3.org/2019/cve-2019-0609.html)
+ CVE-2019-0609 [Analysis](https://gts3.org/2019/cve-2019-0609.html)
      
- CVE-2016-7288 * [Analysis](https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html)
+ CVE-2016-7288 [Analysis](https://blog.quarkslab.com/exploiting-ms16-145-ms-edge-typedarraysort-use-after-free-cve-2016-7288.html)
  
 
 # Tools
