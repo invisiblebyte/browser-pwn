@@ -380,6 +380,9 @@ $ out/Debug/ch
 * bkth: Attacking Edge Through the JavaScript-Compiler
      * [Video](https://www.youtube.com/watch?v=r4J7Zu1RV40)
      * [Slides](https://github.com/bkth/Attacking-Edge-Through-the-JavaScript-Compiler)
+     
+     CVE-2019-0609
+     * [WriteUp](https://gts3.org/2019/cve-2019-0609.html)
 
 ### CTF-Challenges
 * Plaid 2017: chakrazy
