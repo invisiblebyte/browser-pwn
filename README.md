@@ -296,6 +296,7 @@ $ out/Debug/ch
      *  [WriteUp](https://changochen.github.io/2019-04-29-starctf-2019.html)
      *  [WriteUp](https://github.com/vngkv123/aSiagaming/blob/master/Chrome-v8-oob/README.md)
      *  [WriteUp](https://github.com/alstjr4192/BGazuaaaaa/blob/master/*CTF%202019%20oob/pwn.js)
+     *  [WriteUp](https://syedfarazabrar.com/2019-12-13-starctf-oob-v8-indepth/)
 * RealWorldCTF Quals 2019: accessible
      * [Files](https://github.com/m1ghtym0/write-ups/tree/master/browser/realworldctf-quals-2019-accessible)
      * [WriteUp](https://mem2019.github.io/jekyll/update/2019/09/16/Real-World-2019-Accessible.html)
@@ -358,6 +359,10 @@ $ out/Debug/ch
 * 35c3: WebKid
     *   [Sources](https://github.com/saelo/35c3ctf/tree/master/WebKid)
     *   [WriteUp](https://github.com/LinusHenze/35C3_Writeups/tree/master/WebKid)
+
+* RealWorldCTF 2019
+    * [WriteUp](https://gts3.org/2019/Real-World-CTF-2019-Safari.html)
+
 ### RealWorld
 * http://www.phrack.org/papers/attacking_javascript_engines.html
      *    [Source](https://github.com/saelo/jscpwn)
