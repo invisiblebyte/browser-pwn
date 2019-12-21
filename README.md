@@ -1,4 +1,4 @@
-Browser-Pwn
+Browser-Pwn Resources
 ===
 
 The world of Browsers is dominated by 4 major players:
